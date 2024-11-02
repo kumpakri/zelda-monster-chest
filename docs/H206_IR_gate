@@ -1,0 +1,19 @@
+A compact rotary speed sensing module. This module incorporates an WYC-H206 infra-red sensor to sense a split object passing its IR emitter and receiver. It can be used in applications such as endstop sensing in mechanical devices such as CNC machines or 3D printers, or when used with a rotary encoder wheel, can be used for rotary speed sensing of motors and wheels.
+
+The module has a single 3 pin 0.1” pitch header consisting of VCC & GND for power and a single digital schmitt triggered TTL output pin which signifies the sensor's current state. An onboard LED is also included as a visual indicator of the sensor's current state.
+
+
+Specification:
+
+Product code: HCMODU0240
+Supply voltage: 3.3 to 5V
+Slot width: 6mm
+Dimensions ex header (LxWxH): 26.6 x 14.8 x 18.7mm
+Mounting holes diameter: 3mm
+
+
+Pinout:
+
+OUT….Digital out (low = sensor interrupted)
+VCC….3.3/5V
+GND….Ground
